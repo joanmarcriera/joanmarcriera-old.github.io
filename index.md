@@ -1,4 +1,9 @@
 
+# Videos in English 
+
+[![Why Catalan Independence? History of Catalonia](http://img.youtube.com/vi/xCc9FKdPW0M/0.jpg)](https://www.youtube.com/watch?v=xCc9FKdPW0M)
+
+
 
 # News in English
 
