@@ -7,6 +7,8 @@
 
 # News in English
 
-[Catalonias Carles Puigdemont arrested in Germany](https://www.politico.com/www.politico.eu/article/carles-puigdemont-catalonia-arrested-germany/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
 [Catalonias Carles Puigdemont arrested in Germany](https://www.politico.com/www.politico.eu/article/carles-puigdemont-catalonia-arrested-germany/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+
+[Riot police crack down on Catalan demonstrators blocking roadways over Puigdemont's arrest (VIDEOS)](https://www.rt.com/news/422483-catalonia-clashes-police-protesters/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+
