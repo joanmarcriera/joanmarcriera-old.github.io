@@ -4,7 +4,7 @@
 
 [![Why catalan independence: History of Catalonia (by Fem Historia)](https://vimeo.com/262109475)
 
-
+{% vimeo 262109475 %}
 
 # News in English
 
