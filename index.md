@@ -8,6 +8,9 @@
 
 # News in English
 
+# Tue  3 Apr 2018 
+
+[The prosecution investigates the actions of the CDR as a possible crime of rebellion](http://www.turkeytelegraph.com/politics/the-prosecution-investigates-the-actions-of-the-cdr-as-a-possible-crime-of-rebellion-h16888.html)
 
 #Thu 29 Mar 2018 
 

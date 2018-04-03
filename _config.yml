@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+title: "News about Catalonia"
+description: "Description line"
+url: "joanmarcriera.es"
 plugins:
-   - video-embeds
+   - jekyll-feed
