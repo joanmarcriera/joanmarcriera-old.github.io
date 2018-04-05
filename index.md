@@ -45,3 +45,5 @@ layout: default
 
 [German court refuses to extradite Catalan ex-leader Puigdemont on rebellion charges](https://www.rt.com/news/423317-catalonias-ex-president-released/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
+[Former Catalan police chief charged over role in independence bid](https://www.theguardian.com/world/2018/apr/05/former-catalan-police-chief-charged-over-role-in-independence-bid)
+
