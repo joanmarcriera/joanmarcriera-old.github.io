@@ -2,10 +2,6 @@
 layout: default
 ---
 
-* * *
-
-# News in English
-
 ## Thu 28 Mar 2018
 
 [Catalonias Carles Puigdemont arrested in Germany](https://www.politico.com/www.politico.eu/article/carles-puigdemont-catalonia-arrested-germany/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
@@ -15,6 +11,10 @@ layout: default
 ## Thu 29 Mar 2018
 
 [Iain Macwhirter: Scots must not stay silent on Spain’s attack on democracy](http://www.heraldscotland.com/news/16120265.Iain_Macwhirter__Scots_must_not_stay_silent_on_Spain___s_attack_on_democracy/)
+
+## Sat 21 Mar 2018
+
+[Catalan academic facing extradition draws record crowdfunding appeal](https://www.theguardian.com/uk-news/2018/mar/31/catalan-carla-ponsati-crowdfunding-scotland-spain)
 
 * * *
 
@@ -31,6 +31,8 @@ layout: default
 [German court refuses to extradite Catalan ex-leader Puigdemont on rebellion charges](https://www.rt.com/news/423317-catalonias-ex-president-released/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
 [Former Catalan police chief charged over role in independence bid](https://www.theguardian.com/world/2018/apr/05/former-catalan-police-chief-charged-over-role-in-independence-bid)
+
+[Catalonia: Ex-police chief Trapero charged with sedition](http://www.bbc.co.uk/news/world-europe-43653798)
 
 [German court rejects extradition of former Catalan leader on rebellion charge](http://www.reuters.com/article/us-spain-politics-catalonia-germany/german-court-rejects-extradition-of-former-catalan-leader-on-rebellion-charge-idUSKCN1HC2C1?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
