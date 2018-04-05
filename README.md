@@ -4,6 +4,9 @@
 
 Build using Jekyll => *Minimal is a [Jekyll theme for GitHub Pages.](http://pages-themes.github.io/minimal)*
 
+Built site can be seen here => [https://joanmarcriera.github.io/](https://joanmarcriera.github.io/)
+
+
 ## Roadmap
 
 See the [open issues](https://github.com/joanmarcriera/joanmarcriera.github.io/issues) for a list of proposed features (and known issues).
