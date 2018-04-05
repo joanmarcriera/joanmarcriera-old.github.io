@@ -4,6 +4,8 @@
 
 Build using Jekyll => *Minimal is a [Jekyll theme for GitHub Pages.](http://pages-themes.github.io/minimal)*
 
+Tool to gather news => [News gatherer](https://github.com/joanmarcriera/news_gatherer)
+
 Built site can be seen here => [https://joanmarcriera.github.io/](https://joanmarcriera.github.io/)
 
 
