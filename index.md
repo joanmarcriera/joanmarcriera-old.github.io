@@ -21,7 +21,11 @@
 
 [Riot police crack down on Catalan demonstrators blocking roadways over Puigdemont's arrest (VIDEOS)](https://www.rt.com/news/422483-catalonia-clashes-police-protesters/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
+#Thu  5 Apr 2018
 
+[German court: Catalan ex-leader Puigdemont can be released on bail pending extradition decision](https://www.washingtonpost.com/world/europe/german-court-catalan-ex-leader-puigdemont-can-be-released-on-bail-pending-extradition-decision/2018/04/05/a8a097be-38f2-11e8-af3c-2123715f78df_story.html?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
+[The Latest: German court sets bail for ex-Catalan leader](http://abcnews.go.com/International/wireStory/latest-catalan-leader-pens-open-letter-prison-54252041?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
+[German court refuses to extradite Catalan ex-leader Puigdemont on rebellion charges](https://www.rt.com/news/423317-catalonias-ex-president-released/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
