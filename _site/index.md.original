@@ -1,8 +1,56 @@
----
-layout: default
----
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Begin Jekyll SEO tag v2.4.0 -->
+<title>Minimal theme | Minimal is a theme for GitHub Pages.</title>
+<meta name="generator" content="Jekyll v3.7.3" />
+<meta property="og:title" content="Minimal theme" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Minimal is a theme for GitHub Pages." />
+<meta property="og:description" content="Minimal is a theme for GitHub Pages." />
+<link rel="canonical" href="http://localhost:4000/index.md.original" />
+<meta property="og:url" content="http://localhost:4000/index.md.original" />
+<meta property="og:site_name" content="Minimal theme" />
+<script type="application/ld+json">
+{"headline":"Minimal theme","description":"Minimal is a theme for GitHub Pages.","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/logo.png"}},"@type":"WebPage","url":"http://localhost:4000/index.md.original","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <a href=""> <h1>Minimal theme</h1> </a>
+	
+	
+	  <img src="/assets/img/logo.png" alt="Logo"></img>
+	
+
+	<p>Minimal is a theme for GitHub Pages.</p>
+
+        
+
+        
+
+        
+          <ul>
+            <li><a href="">Download <strong>ZIP File</strong></a></li>
+            <li><a href="">Download <strong>TAR Ball</strong></a></li>
+            <li><a href="">View On <strong>GitHub</strong></a></li>
+          </ul>
+        
+      </header>
+      <section>
+
+      Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
 
@@ -121,3 +169,17 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+
+      </section>
+      <footer>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+
+
+  
+  </body>
+</html>
