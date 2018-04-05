@@ -2,122 +2,38 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+* * *
 
-[Link to another page](another-page).
+# Videos in English
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[![Why catalan independence: History of Catalonia (by Fem Historia)](https://vimeo.com/262109475)
 
-# [](#header-1)Header 1
+## vimeo 262109475 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# News in English
 
-## [](#header-2)Header 2
+# Tue  3 Apr 2018
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[The prosecution investigates the actions of the CDR as a possible crime of rebellion](http://www.turkeytelegraph.com/politics/the-prosecution-investigates-the-actions-of-the-cdr-as-a-possible-crime-of-rebellion-h16888.html)
 
-### [](#header-3)Header 3
+#Thu 29 Mar 2018
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+[Iain Macwhirter: Scots must not stay silent on Spain’s attack on democracy](http://www.heraldscotland.com/news/16120265.Iain_Macwhirter__Scots_must_not_stay_silent_on_Spain___s_attack_on_democracy/)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+#Thu 28 Mar 2018
 
-#### [](#header-4)Header 4
+[Catalonias Carles Puigdemont arrested in Germany](https://www.politico.com/www.politico.eu/article/carles-puigdemont-catalonia-arrested-germany/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+[Riot police crack down on Catalan demonstrators blocking roadways over Puigdemont's arrest (VIDEOS)](https://www.rt.com/news/422483-catalonia-clashes-police-protesters/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
 * * *
 
-### Here is an unordered list:
+#Thu  5 Apr 2018
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+[German court: Catalan ex-leader Puigdemont can be released on bail pending extradition decision](https://www.washingtonpost.com/world/europe/german-court-catalan-ex-leader-puigdemont-can-be-released-on-bail-pending-extradition-decision/2018/04/05/a8a097be-38f2-11e8-af3c-2123715f78df_story.html?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
-### And an ordered list:
+[The Latest: German court sets bail for ex-Catalan leader](http://abcnews.go.com/International/wireStory/latest-catalan-leader-pens-open-letter-prison-54252041?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+[German court refuses to extradite Catalan ex-leader Puigdemont on rebellion charges](https://www.rt.com/news/423317-catalonias-ex-president-released/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
