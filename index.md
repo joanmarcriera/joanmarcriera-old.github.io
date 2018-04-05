@@ -32,3 +32,5 @@ layout: default
 
 [Former Catalan police chief charged over role in independence bid](https://www.theguardian.com/world/2018/apr/05/former-catalan-police-chief-charged-over-role-in-independence-bid)
 
+[German court rejects extradition of former Catalan leader on rebellion charge](http://www.reuters.com/article/us-spain-politics-catalonia-germany/german-court-rejects-extradition-of-former-catalan-leader-on-rebellion-charge-idUSKCN1HC2C1?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+
