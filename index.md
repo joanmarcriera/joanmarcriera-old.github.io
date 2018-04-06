@@ -40,3 +40,5 @@ layout: default
 
 [Lawyers for Catalan ex-leader arrive at German prison](http://www.foxnews.com/world/2018/04/06/lawyers-for-catalan-ex-leader-arrive-at-german-prison.html?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
+[Ex-Catalan leader Puigdemont released from German jail on bail](https://www.aljazeera.com/news/2018/04/catalan-leader-puigdemont-released-german-jail-bail-180406120150416.html?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+
