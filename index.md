@@ -36,3 +36,7 @@ layout: default
 
 [German court rejects extradition of former Catalan leader on rebellion charge](http://www.reuters.com/article/us-spain-politics-catalonia-germany/german-court-rejects-extradition-of-former-catalan-leader-on-rebellion-charge-idUSKCN1HC2C1?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
+[Lawyers for Catalan ex-leader arrive at German prison](https://www.washingtonpost.com/world/europe/lawyers-for-catalan-ex-leader-arrive-at-german-prison/2018/04/06/9217090e-397b-11e8-af3c-2123715f78df_story.html?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+
+[Lawyers for Catalan ex-leader arrive at German prison](http://www.foxnews.com/world/2018/04/06/lawyers-for-catalan-ex-leader-arrive-at-german-prison.html?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+
