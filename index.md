@@ -44,3 +44,7 @@ layout: default
 
 [Ex-Catalan leader Puigdemont released from German jail on bail](https://www.aljazeera.com/news/2018/04/catalan-leader-puigdemont-released-german-jail-bail-180406120150416.html?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
+## Sun 8 Apr 2018
+
+[If the Spanish want a scrap, the Scots will be only too happy to oblige them](https://www.theguardian.com/commentisfree/2018/apr/08/spain-scotland-catalonia-eu-extradition-mckenna-ponsati-independence-sedition)
+
