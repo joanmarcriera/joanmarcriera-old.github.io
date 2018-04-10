@@ -48,3 +48,5 @@ layout: default
 
 [If the Spanish want a scrap, the Scots will be only too happy to oblige them](https://www.theguardian.com/commentisfree/2018/apr/08/spain-scotland-catalonia-eu-extradition-mckenna-ponsati-independence-sedition)
 
+[Europes separatists feel Catalan chill](https://www.politico.com/www.politico.eu/article/catalan-chill-for-european-separatist-movements-aland-islands-south-tyrol/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+
