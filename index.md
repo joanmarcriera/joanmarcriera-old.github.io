@@ -50,3 +50,5 @@ layout: default
 
 [Europes separatists feel Catalan chill](https://www.politico.com/www.politico.eu/article/catalan-chill-for-european-separatist-movements-aland-islands-south-tyrol/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
+[Protests erupt after detention of Catalan independence activist charged with terrorism](https://www.rt.com/news/423850-catalonia-protests-activist-terrorism/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+
