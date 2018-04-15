@@ -56,3 +56,7 @@ layout: default
 
 [Huge rally in Barcelona to demand jailed separatists go free](http://abcnews.go.com/International/wireStory/catalan-separatists-march-demand-release-jailed-leaders-54478963?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
+
+# 2018-04-15
+
+[Demonstrators flood Barcelona in support of jailed separatist leaders](http://www.reuters.com/article/us-spain-politics-catalonia/demonstrators-flood-barcelona-in-support-of-jailed-separatist-leaders-idUSKBN1HM0J4?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
