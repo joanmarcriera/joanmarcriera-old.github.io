@@ -62,3 +62,5 @@ layout: default
 [Demonstrators flood Barcelona in support of jailed separatist leaders](http://www.reuters.com/article/us-spain-politics-catalonia/demonstrators-flood-barcelona-in-support-of-jailed-separatist-leaders-idUSKBN1HM0J4?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
 [Thousands march in Barcelona for jailed Catalan leaders](https://www.aljazeera.com/indepth/features/thousands-march-barcelona-jailed-catalan-leaders-180415120415913.html?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+
+[Catalans rally for freedom and return of independence leaders: More than 300,000 people...](http://www.dw.com/en/catalans-rally-for-freedom-and-return-of-independence-leaders/a-43394188?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
