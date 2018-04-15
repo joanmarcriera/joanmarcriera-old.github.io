@@ -64,3 +64,5 @@ layout: default
 [Thousands march in Barcelona for jailed Catalan leaders](https://www.aljazeera.com/indepth/features/thousands-march-barcelona-jailed-catalan-leaders-180415120415913.html?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
 [Catalans rally for freedom and return of independence leaders: More than 300,000 people...](http://www.dw.com/en/catalans-rally-for-freedom-and-return-of-independence-leaders/a-43394188?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+
+[Hundreds of thousands demand release of independence leaders in Barcelona](https://www.rt.com/news/424222-barcelona-protest-independence-leaders/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
