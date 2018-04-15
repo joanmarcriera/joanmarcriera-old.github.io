@@ -52,3 +52,5 @@ layout: default
 
 [Protests erupt after detention of Catalan independence activist charged with terrorism](https://www.rt.com/news/423850-catalonia-protests-activist-terrorism/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
+[Catalan separatists march, demand release of jailed leaders](https://www.washingtonpost.com/world/europe/catalan-separatists-march-demand-release-of-jailed-leaders/2018/04/15/97f1535c-409c-11e8-b2dc-b0a403e4720a_story.html?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+
