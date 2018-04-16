@@ -66,3 +66,7 @@ layout: default
 [Catalans rally for freedom and return of independence leaders: More than 300,000 people...](http://www.dw.com/en/catalans-rally-for-freedom-and-return-of-independence-leaders/a-43394188?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 
 [Hundreds of thousands demand release of independence leaders in Barcelona](https://www.rt.com/news/424222-barcelona-protest-independence-leaders/?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+
+# 2018-04-16
+
+[Celta Vigo vs. Barcelona: Team News, Preview, Live Stream, TV Info](http://bleacherreport.com/articles/2770628-celta-vigo-vs-barcelona-team-news-preview-live-stream-tv-info?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
