@@ -69,6 +69,4 @@ layout: default
 
 # 2018-04-16
 
-[Celta Vigo vs. Barcelona: Team News, Preview, Live Stream, TV Info](http://bleacherreport.com/articles/2770628-celta-vigo-vs-barcelona-team-news-preview-live-stream-tv-info?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
-
 [Homage to Guardiola: How Catalonia See's Pep's Manchester City](http://bleacherreport.com/articles/2770746-homage-to-guardiola-how-catalonia-sees-peps-manchester-city?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
